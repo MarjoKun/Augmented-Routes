@@ -7,7 +7,7 @@ Augmented Routes is Android/iOS Augmented Reality application which is location-
 Unity C#
 
 <h2>Environments used:</h2>
-Android
+Android,
 iOS
 
 <h2>Features:</h2>
